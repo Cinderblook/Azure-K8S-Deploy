@@ -48,3 +48,4 @@ kubeconfig
 
 #Ignore publickeyfile
 id_ed25519.pub
+id_rsa.pub
